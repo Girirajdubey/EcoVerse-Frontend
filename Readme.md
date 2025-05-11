@@ -2,64 +2,72 @@
 
 Features
 
-1. Community Section (Community.tsx)
-   Displays community statistics (active members, reports submitted, ECO coins earned)
+### 1. Community Section (Community.tsx)
 
-Shows top contributors with their activity metrics
+    Displays community statistics (active members, reports submitted, ECO coins earned)
 
-Lists upcoming environmental events with participation details
+    Shows top contributors with their activity metrics
 
-Dark mode support
+    Lists upcoming environmental events with participation details
 
-2. Explore Section (Explore.tsx)
-   Search functionality for environmental issues
+    Dark mode support
 
-Categorized pollution types with counts
+## 2. Explore Section (Explore.tsx)
 
-Trending environmental hashtags
+    Search functionality for environmental issues
 
-Visual display of most polluted areas
+    Categorized pollution types with counts
 
-Dark mode support
+    Trending environmental hashtags
 
-3. Home Feed (Home.tsx)
-   Main feed showing environmental posts
+    Visual display of most polluted areas
 
-Floating action button for creating new posts
+    Dark mode support
 
-Post creation form with image upload
+## 3. Home Feed (Home.tsx)
 
-Toast notifications for successful posts
+    Main feed showing environmental posts
 
-4. Map View (MapView.tsx)
-   Interactive pollution map with severity indicators
+    Floating action button for creating new posts
 
-Filter options for pollution type, severity, and time period
+    Post creation form with image upload
 
-Legend explaining severity levels
+    Toast notifications for successful posts
 
-Simulated map pins for pollution hotspots
+## 4. Map View (MapView.tsx)
 
-5. Settings (Settings.tsx)
-   Tabbed interface for different settings categories
+    Interactive pollution map with severity indicators
 
-Profile management (avatar, display name, bio)
+    Filter options for pollution type, severity, and time period
 
-Notification preferences (push and email)
+    Legend explaining severity levels
 
-Privacy controls and data usage settings
+    Simulated map pins for pollution hotspots
 
-Help center with FAQs and support contact form
+## 5. Settings (Settings.tsx)
 
-6. Tools (Tools.tsx)
-   Container for environmental tools (currently includes PathDetection)
+    Tabbed interface for different settings categories
 
-7. Post Management
-   Post creation form with image upload and AI analysis simulation (PostForm.tsx)
+    Profile management (avatar, display name, bio)
 
-Post listing with detailed cards showing severity, likes, and comments (PostList.tsx)
+    Notification preferences (push and email)
 
-Technical Details
+    Privacy controls and data usage settings
+
+    Help center with FAQs and support contact form
+
+## 6. Tools (Tools.tsx)
+
+    Container for environmental tools (currently includes PathDetection)
+
+## 7. Post Management
+
+    Post creation form with image upload and AI analysis simulation (PostForm.tsx)
+
+    Post listing with detailed cards showing severity, likes, and comments (PostList.tsx)
+
+## Technical Details
+
 Built with React and TypeScript
 
 Responsive design with mobile-first approach
@@ -74,7 +82,7 @@ Simulated data for demonstration purposes
 
 Toast notification system
 
-Installation
+## Installation
 
 - Clone the repository
 
@@ -82,7 +90,7 @@ Install dependencies: npm install
 
 Run the development server: npm start
 
-Future Enhancements
+## Future Enhancements
 
 - Integrate with real map APIs
 
