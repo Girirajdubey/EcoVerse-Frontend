@@ -3,6 +3,7 @@
 Features
 
 ### 1. Community Section (Community.tsx)
+![alt text](https://github.com/Girirajdubey/EcoVerse-Frontend/blob/main/EcoVerse%20Frontend%20ScreenShots/community.jpg?raw=true)
 
     Displays community statistics (active members, reports submitted, ECO coins earned)
 
@@ -25,6 +26,7 @@ Features
     Dark mode support
 
 ## 3. Home Feed (Home.tsx)
+![alt text](https://github.com/Girirajdubey/EcoVerse-Frontend/blob/main/EcoVerse%20Frontend%20ScreenShots/home.jpg?raw=true)
 
     Main feed showing environmental posts
 
@@ -45,6 +47,7 @@ Features
     Simulated map pins for pollution hotspots
 
 ## 5. Settings (Settings.tsx)
+![alt text](https://github.com/Girirajdubey/EcoVerse-Frontend/blob/main/EcoVerse%20Frontend%20ScreenShots/settings.jpg?raw=true)
 
     Tabbed interface for different settings categories
 
@@ -57,6 +60,7 @@ Features
     Help center with FAQs and support contact form
 
 ## 6. Tools (Tools.tsx)
+![alt text](https://github.com/Girirajdubey/EcoVerse-Frontend/blob/main/EcoVerse%20Frontend%20ScreenShots/tool.jpg?raw=true)
 
     Container for environmental tools (currently includes PathDetection)
 
